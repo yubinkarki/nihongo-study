@@ -1,13 +1,13 @@
 ## カタオモイ by Aimer
 
 > ⭐️ 例えば君の顔に昔より
-
-```
-例 ➜ たと・レイ ➜ example, custom
-君 ➜ きみ・クン ➜ you, mister, buddy
-顔 ➜ かお・ガン ➜ face, expression
-昔 ➜ むかし・セキ・シャク ➜ old times, antiquity
-```
+>
+> ```
+> 例 ➜ たと・レイ ➜ example, custom
+> 君 ➜ きみ・クン ➜ you, mister, buddy
+> 顔 ➜ かお・ガン ➜ face, expression
+> 昔 ➜ むかし・セキ・シャク ➜ old times, antiquity
+> ```
 
 > ⚡️ シワが増えてもそれでも良いんだ
 
