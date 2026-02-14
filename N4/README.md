@@ -7,6 +7,7 @@ N4 level contents from みんなの日本語教科書。
 - [jisho](https://jisho.org)
 - [YouTube](https://youtube.com/)
 - [ChatGPT](https://chatgpt.com/)
+- [WaniKani](https://www.wanikani.com/)
 - [みんなの日本語](https://nipponrama.com/store/product/minna-no-nihongo-full-set/?srsltid=AfmBOoq6Huhc3N0ynVXrHMdbDto4-10slu1zSJVITEMpuh_Dk1Z1jFc8)
 
 ## Table of Contents
@@ -59,3 +60,5 @@ N4 level contents from みんなの日本語教科書。
   - 使役形・・使役形ていただけませんか
 - [第49課 - 使役形](./第49課/)
   - 尊敬語・・はが動詞の受身系・・になります・・特別な敬語・・お・ご動詞の連用形・・名詞・形容詞の敬語
+- [第50課 - 使役形](./第50課/)
+  - 謙譲語・お動詞します・・ご動詞します・・ございます・・でございます
