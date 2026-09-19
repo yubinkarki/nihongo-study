@@ -56,7 +56,7 @@ Was it just a whim?
 
 ```
 手に入った途端に飽きちゃうの？
-てに いった とたんに あきちゃうの？
+てに はいった とたんに あきちゃうの？
 Do you get bored as soon as you get it?
 ```
 
